@@ -1,5 +1,5 @@
 # QuickSwitch
 
-This repository is full of quick ootb tools for changinf IP's and flushing cahces.
+This repository is full of quick ootb tools for changing IP's and flushing cahces.
 
-## For Mac address Changes please use BasicSOC-Drills
+## For Mac address changes please use BasicSOC-Drills
